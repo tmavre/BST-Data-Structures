@@ -144,8 +144,6 @@ typedef struct NodePtr{
 			inorder(p->left);
 			printf("%d,",p->value);
 			inorder(p->right);
-
-
 		}
 	}
 
@@ -156,7 +154,6 @@ typedef struct NodePtr{
 			postorder(p->left);
 			postorder(p->right);
 			printf("%d,",p->value);
-
 		}
 	}
 
@@ -173,7 +170,6 @@ typedef struct NodePtr{
 		}
 		return search(root->left,value);
 	}
-
 
 	void print(Node *root)
 	{
