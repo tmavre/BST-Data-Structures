@@ -1,5 +1,5 @@
 # BST-Data-Structures
-With this program you can insert , delete , find minimum element, find maximum element in Binary Search tree 
+With this program you can insert , delete ,find a element,find minimum element, find maximum element in Binary Search tree 
 
 traverse in Binary Search tree  with pre-order , in-order, post-order.
 
