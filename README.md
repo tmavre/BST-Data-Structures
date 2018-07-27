@@ -17,4 +17,4 @@ For example:
 ```sh
 root =insert(root,30);
 search(root,50);
-```sh
+```
